@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,100:475569&height=100&section=header&text=Hi,%20I'm%20Max&fontSize=28&fontColor=ffffff&fontAlignY=55&radius=999" width="100%"/> </p>
+<p align="center">
+  <img src="header.svg" width="100%"/>
+</p>
 
 ## Full-Stack Developer in Progress
 
